@@ -2,7 +2,7 @@
 //  Data.swift
 //  About Dev
 //
-//  Created by Ricky Memije on 4/15/22.
+//  Created by Travis James on 1/21/24.
 //
 import SwiftUI
 import Foundation
@@ -44,16 +44,16 @@ let viewText = ViewText (
     whosDevTitleText: "Whos Dev")
 
 let ricksQuote = Quote(
-    quote: "\"Place holder. Write your quote.\""
+    quote: "\"Place holder. You'll Never Walk Alone.\""
 )
 
 let person1 = PersonBio (
-    name:"Name",
-    shortBio: "Short bio.",
-    sports: ["FootBall"," Golf", "Boxing"],
-    hobbies: ["R/C Building", "3D Printing"],
-    movies: ["The Lord Of The Rings Trilogy", "Star Wars Saga"],
-    foods: ["Pastas", "Stake"]
+    name:"Travis James",
+    shortBio: "Born May 26th 1982. Mother died at age 5. Raised by father, Tim James. Older brother to Micah James.",
+    sports: ["English Football", "Australian Football", "Hockey", "Tennis"],
+    hobbies: ["Playing video games with my kids", "Watching English Premier League Football"],
+    movies: ["Star Wars", "Lethal Weapoon", "Die Hard", "Indiana Jones"],
+    foods: ["Tacos", "Cheeseburgers", "Ramen"]
 )
 
 
